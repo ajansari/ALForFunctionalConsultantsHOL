@@ -1,0 +1,29 @@
+{
+  "id": "392ac19f-2ffe-45f8-9eee-e9a4a0efc4f9",
+  "name": "AL for Functional Consultants HOL",
+  "publisher": "AJ Ansari - DSWi",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "AL for Functional Consultants Hands On Lab Solution Package",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./images/dswilogo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50010,
+      "to": 50012
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
